@@ -1,0 +1,1 @@
+# docker-ouroboros-elasticsearch
